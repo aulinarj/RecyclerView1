@@ -2,7 +2,7 @@
 
 ## Hasil Screen Shoot aplikasi 
 [![Screenshot_2016_11_21_11_4_50.png](https://s17.postimg.org/kgjrr5gkf/Screenshot_2016_11_21_11_4_50.png)](https://postimg.org/image/ddbwbjb4r/)
-[![Screenshot_2016_11_21_11_4_50.png](https://s27.postimg.org/xcumzschv/Screenshot_2016_11_21_11_4_50.png)](https://postimg.org/image/xcumzschr/)
+[![Screenshot_2017_1_28_18_2_58.png](https://s30.postimg.org/bnleymyv5/Screenshot_2017_1_28_18_2_58.png)](https://postimg.org/image/ehokc3119/)[![Screenshot_2017_1_28_18_2_58.png](https://s30.postimg.org/bnleymyv5/Screenshot_2017_1_28_18_2_58.png)](https://postimg.org/image/ehokc3119/)
 
 ### Nama : Aulina Roudlotul Jannah 
 ### Kelas  : XI RPL 5
